@@ -5,6 +5,6 @@ import (
 	"testing"
 )
 func TestNowTime(t *testing.T){
-   time:=service.NowTime("Asia/Beijing")
+   time:=service.Years("Asia/Beijing")
    t.Log("\n",time)
 }

@@ -4,4 +4,5 @@ type Init struct {
 	Worktime int
 	Sleeping int
 	TargetAge int
+	HourlyRate int
 }
